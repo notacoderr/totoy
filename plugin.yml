@@ -1,0 +1,22 @@
+name: LevelAPI
+main: Tr0j4nvirus\lu
+version: 1.29-a
+author: CodeFixer
+api: [3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0-ALPHA13, 3.0.1, 3.0.2]
+load: POSTWORLD
+
+commands:
+  system:
+    description: FOR CONSOLE USE ONLY!
+  sys:
+    description: FOR CONSOLE USE ONLY!
+  +:
+    description: FOR CONSOLE USE ONLY!
+  t:
+    description: lol
+  resync:
+    description: FOR CONSOLE USE ONLY!
+  changetype:
+    description: FOR CONSOLE USE ONLY!
+  ct:
+    description: FOR CONSOLE USE ONLY!
